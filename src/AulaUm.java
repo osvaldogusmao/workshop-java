@@ -43,7 +43,25 @@ public class AulaUm {
 		}else{
 			
 			System.out.println("Entrada negada");
-			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		}
 		*/
 		/*
