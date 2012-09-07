@@ -42,7 +42,7 @@ public class ExercicioCinco {
 							 * (int) 1 = NO
 							 * 
 							 * */
-							int escolha = JOptionPane.showConfirmDialog(null, "Já existe o produto : " + produtoCadastrado + " cadastrado.\n" +
+							int escolha = JOptionPane.showConfirmDialog(null, "Produto Existente! : " + produtoCadastrado + " cadastrado.\n" +
 																				"Deseja subscrever?", "Atenção", JOptionPane.YES_NO_OPTION);
 							
 							if(escolha == 0){
